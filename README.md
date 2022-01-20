@@ -30,3 +30,22 @@ Author's official blog:   https://blog.paradoxis.nl/defeating-flasks-session-man
  *A google search `flask-unsign ctf` will give you lot of writeups how this have been used in ctfs to forge cookies.*
  
  
+## 2. Faster hashe cracking using Google colab(GPUs):
+
+  ![image](https://user-images.githubusercontent.com/79413473/150385576-127beaa4-35ce-4d6b-a031-ffbb61664f6b.png)
+
+while browsing youtube today i found this great video by **superhero1** about using Google Colab for cracking hashes and i was like wow that's awesome why didn't i 
+think about utilising colab's GPU for cracking hashes, as my laptop is not that strong so i always struggle with cracking paswords during CTFs.
+
+Video with great explaination by legend himself : https://www.youtube.com/watch?v=5pd9n4BTYp0
+
+### Explaination:
+
+Notebook Github: https://github.com/mxrch/penglab
+
++ In Google colab basically you can create notebooks, which is nothing but blocks of code which you can also share with others and other people can directly use 
+  that code by simply just clicking Run it.
++ This notebook install **JOhn-The_Ripper, Hashcat, and Hydra** and fetch **Rockyou.txt** wordlist and you can use those tools easily in your workflow.
++ It has many more functionalities check it out.
+
+
