@@ -53,3 +53,5 @@ Notebook Github: https://github.com/mxrch/penglab
  + While watching this video of ippsec https://www.youtube.com/watch?v=ahzOprfN--Y . He used a tool called **mongodump**. It's an offical tool created by mongodb creators to export data in binary format from database.
   *mongodump is a utility for creating a binary export of the contents of a database. mongodump can export data from either mongod or mongos instances; i.e. can   export data from standalone, replica set, and sharded cluster deployments*
  + It can save time in reading passwords from databse if password is unknown.
+ + Tool url : https://docs.mongodb.com/database-tools/mongodump/ . You can run it from your terminal directly. 
+ + `mongodump`  command will by default assume localhost and default mongodb port & no authentication is required.
