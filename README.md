@@ -48,4 +48,8 @@ Notebook Github: https://github.com/mxrch/penglab
 + This notebook install **JOhn-The_Ripper, Hashcat, and Hydra** and fetch **Rockyou.txt** wordlist and you can use those tools easily in your workflow.
 + It has many more functionalities check it out.
 
+## 3. MongoDump Tool
 
+ + While watching this video of ippsec https://www.youtube.com/watch?v=ahzOprfN--Y . He used a tool called **mongodump**. It's an offical tool created by mongodb creators to export data in binary format from database.
+  *mongodump is a utility for creating a binary export of the contents of a database. mongodump can export data from either mongod or mongos instances; i.e. can   export data from standalone, replica set, and sharded cluster deployments*
+ + It can save time in reading passwords from databse if password is unknown.
