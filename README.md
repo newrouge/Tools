@@ -77,7 +77,7 @@ Notebook Github: https://github.com/mxrch/penglab
 
 **Blog:** https://spyclub.tech/2018/08/14/2018-08-14-blog-on-gopherus/
 
-+ If we get a ssrf with gopher protocl enabled we can uie to access other services running on server like mysql,redis,smtp etc.
++ If we get a ssrf with gopher protocl enabled we can use this to access services like mysql,redis,smtp etc on server.
 + This tool helps to generate Payloads for different services to interact with these services and gain persistence.
 + While reading this [blog](9https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530)  found about this tool. Itws awesome how he chained gopher and 302 redirect together.
 + There is also a tool for 302 redirecter, i knew about it but never use i write my own 302 redirect using php file `header("Location: http://internal-service.com)` with apache or ngrok. But this tool looks promising too.
