@@ -1,5 +1,5 @@
 # Tools
-Pentest tools used in industry
+Pentest tools used in industry that i didn't knew about
 
 ## 1. Flask-Unsign: A tool to forge flask session cookies
 
@@ -55,3 +55,17 @@ Notebook Github: https://github.com/mxrch/penglab
  + It can save time in reading passwords from databse if password is unknown.
  + Tool url : https://docs.mongodb.com/database-tools/mongodump/ . You can run it from your terminal directly. 
  + `mongodump`  command will by default assume localhost and default mongodb port & no authentication is required.
+
+## 4. DNS rebinding(not a tool but technique):
+
+  ![image](https://user-images.githubusercontent.com/79413473/151499582-c607cde4-2b8f-49cb-87bd-fc34b1bd0455.png)
+
+  
+    **Tool Url:**https://lock.cmpxchg8b.com/rebinder.html
+    **Blog:** https://blog.compass-security.com/2021/02/the-good-old-dns-rebinding/
+    
++ While reading about bypassing ssrf [blog](https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462) 
+   this mentioned about **DNS rebinding** technique. 
++ DNS rebinding is used to bypass filter which check where a url is resolving to. So using DNS rebinding when victim make a DNS request to attcker server,already configured to use attacker's DNS server, we give it a harmless IP to connect to and connection is resolved but ttl(time to live) of this response was very short so next time it will query our dns server it respond back with internal IP which was not allowed initially.
+
+Official singulairyt tool to setup using VPS: https://0x1.gitlab.io/web-security/Singularity/
