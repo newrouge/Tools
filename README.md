@@ -81,3 +81,9 @@ Notebook Github: https://github.com/mxrch/penglab
 + This tool helps to generate Payloads for different services to interact with these services and gain persistence.
 + While reading this [blog](9https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530)  found about this tool. Itws awesome how he chained gopher and 302 redirect together.
 + There is also a tool for 302 redirecter, i knew about it but never use i write my own 302 redirect using php file `header("Location: http://internal-service.com)` with apache or ngrok. But this tool looks promising too.
+
+## 6. faketime
+*linux tool which can be used to change time for a particular command, so instead of screwing your whole system time you can use this.*
+
+[0xdf tweet:](https://twitter.com/0xdf_/status/1487098702779097100)
+![image](https://user-images.githubusercontent.com/79413473/151674674-516d9fe3-6bb4-48fc-949d-990e09871a4c.png)
