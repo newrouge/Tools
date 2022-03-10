@@ -87,3 +87,13 @@ Notebook Github: https://github.com/mxrch/penglab
 
 [0xdf tweet:](https://twitter.com/0xdf_/status/1487098702779097100)
 ![image](https://user-images.githubusercontent.com/79413473/151674674-516d9fe3-6bb4-48fc-949d-990e09871a4c.png)
+
+
+## 7. pyftpdlib : Python FTP server
+
+While Playing HackTheBox Timing machine, i needed to spawn a temporray ftp server but only option i had was to setup vsftpd on my ubuntu machine, but then **pyftpdlib** came to rescue. This library will help you on spwaning instant ftp server also can be easily used for file transfers with anonymous login. SUper useful tool.
+
++ Library: [here](https://pypi.org/project/pyftpdlib/).
++ `pip install pyftpdlib` then `python3 -m pyftpdlib -h`. 
+
+More on it on [this](https://github.com/giampaolo/pyftpdlib) repository. 
