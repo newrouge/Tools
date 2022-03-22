@@ -97,3 +97,13 @@ While Playing HackTheBox Timing machine, i needed to spawn a temporray ftp serve
 + `pip install pyftpdlib` then `python3 -m pyftpdlib -h`. 
 
 More on it on [this](https://github.com/giampaolo/pyftpdlib) repository. 
+
+## 8. awslocal: an alternative for aws for local instances
+
+Tool: https://github.com/localstack/awscli-local
+
+`pip3 install awscli-local`
+
+It saves time for typing --endopoint-url again and again.
+
+## 9.
