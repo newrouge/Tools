@@ -39,6 +39,8 @@ think about utilising colab's GPU for cracking hashes, as my laptop is not that 
 
 Video with great explaination by legend himself : https://www.youtube.com/watch?v=5pd9n4BTYp0
 
++ Notebook Link: https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb
+
 ### Explaination:
 
 Notebook Github: https://github.com/mxrch/penglab
