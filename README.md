@@ -108,4 +108,12 @@ Tool: https://github.com/localstack/awscli-local
 
 It saves time for typing --endopoint-url again and again.
 
-## 9.
+## 9. WADComs (A resource for window AD hacking tools):
+
+[WADcoms](https://wadcoms.github.io/) is developed by John Woodman, it like GTFOBins for AD hacking. It lists different tools you can use to enumerate, attack and gain persistence in ADenvironment. It also list syntax to use these services. You can search tools by services name or by exploit technique.
+
+![Screenshot from 2022-05-13 14-21-29](https://user-images.githubusercontent.com/79413473/168247739-72794700-9654-49c4-b927-4f95108906d3.png)
+
+## 10.
+
+
