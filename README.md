@@ -114,6 +114,12 @@ It saves time for typing --endopoint-url again and again.
 
 ![Screenshot from 2022-05-13 14-21-29](https://user-images.githubusercontent.com/79413473/168247739-72794700-9654-49c4-b927-4f95108906d3.png)
 
-## 10.
+## 10. SerializationDumper
+
+I discovered this tool while doing Fingerprint machine from HTB and it had java deserilization vulnerability. This tool can help in decoding java serilizaed objects and recreate serializaed objects.
+
+Check out Github Link: https://github.com/NickstaDB/SerializationDumper for usage guide.
+
+it supports multiple formats and is essentially a helpful tool for CTFs.
 
 
