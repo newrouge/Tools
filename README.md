@@ -126,4 +126,14 @@ it supports multiple formats and is essentially a helpful tool for CTFs.
 
 Tool: https://github.com/wagoodman/dive
 
+## 12. bopscrk : password list generator
+
+After playing [Alh4zr3d](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA) ctf i came to know about this tool for generating password list
+
+Tool Link : https://github.com/r3nt0n/bopscrk
+
+It's a great tool for automatically give additional quirks like capitalisation, adding numbers symbols and much more different combinations to generate a good wordlist related to your target
+
+
+## 13.
 
