@@ -135,5 +135,9 @@ Tool Link : https://github.com/r3nt0n/bopscrk
 It's a great tool for automatically give additional quirks like capitalisation, adding numbers symbols and much more different combinations to generate a good wordlist related to your target
 
 
-## 13.
+## 13. win3zz.com, Phone number lookup
+
+This website is great alternative for truecaller, and has unlimited queries
+
+**URL:** https://win3zz.com/find/
 
