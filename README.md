@@ -30,7 +30,7 @@ Author's official blog:   https://blog.paradoxis.nl/defeating-flasks-session-man
  *A google search `flask-unsign ctf` will give you lot of writeups how this have been used in ctfs to forge cookies.*
  
  
-## 2. Faster hashe cracking using Google colab(GPUs):
+## 2. Faster hash cracking using Google colab(GPUs):
 
   ![image](https://user-images.githubusercontent.com/79413473/150385576-127beaa4-35ce-4d6b-a031-ffbb61664f6b.png)
 
@@ -137,7 +137,7 @@ It's a great tool for automatically give additional quirks like capitalisation, 
 
 ## 13. win3zz.com, Phone number lookup
 
-This website is great alternative for truecaller, and has unlimited queries
+This website is great alternative for truecaller, and has unlimited queries. It can come handy when you are doing some OSINT work and lookup a bulk of phone numbers from an organization. Occasionaly People have their personal email id's linked to their phone numbers which can be helpful in phising attack.
 
 **URL:** https://win3zz.com/find/
 
