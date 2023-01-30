@@ -124,7 +124,10 @@ it supports multiple formats and is essentially a helpful tool for CTFs.
 
 ## 11. Dive: Interactive Docker layer inspection tool
 
-Tool: https://github.com/wagoodman/dive
+Tool: https://github.com/wagoodman/dive 
+
+![Screenshot from 2023-01-30 15-08-03](https://user-images.githubusercontent.com/79413473/215441211-3977753f-8aef-4154-9cda-6b7ec4f40831.png)
+
 
 ## 12. bopscrk : password list generator
 
