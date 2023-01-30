@@ -155,6 +155,6 @@ Blog: https://dalemazza.github.io/blog/Ligolo-ng/
 
 I came to know about this tool in [Payatu](https://payatu.com/)'s tech talk friday. This is advanced version of SOCKS proxy as it has a control server hosted on attacker's machine, you have to drop a agent(executable) on victim's machine and using that connect back to control server. This way multiple different hosts/subnet which can't communicate with each other becomes rechable from attacker's machine.
 
-It can be really helpful while dealing with more than 2 or 3 different hosts. Also it is more comptabile with burp suite than socks.
+It can be really helpful while dealing with more than 2 or 3 different hosts. Also it is more comptabile with burpsuite than socks.
 
-It requires setting up your interface so follow instructions on official github page.
+It requires setting up your interface so follow instructions on official github page. 
