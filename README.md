@@ -144,3 +144,16 @@ This website is great alternative for truecaller, and has unlimited queries. It 
 
 **URL:** https://win3zz.com/find/
 
+
+## 14. Ligolo-ng: Tunneling & Pivoting tool
+
+Tool Url: https://github.com/nicocha30/ligolo-ng
+
+Blog: https://dalemazza.github.io/blog/Ligolo-ng/
+
+![Screenshot from 2023-01-30 15-24-26](https://user-images.githubusercontent.com/79413473/215444935-b9660abf-962c-431c-8395-588b65d8d5ff.png)
+
+I came to know about this tool in [Payatu](https://payatu.com/)'s tech talk friday. This is advanced version of SOCKS proxy it has has a control server hosted on attacker's machine you just have to drop a agent on victim's machine and using that connect back to control server. This way multiple different hosts/subnet which can't communicate with each other become rechable from attacker's machine.
+
+It can be really helpful while dealing with more than 2 or 3 different hosts. Also it is more comptabile with burp suite than socks.
+
